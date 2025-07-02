@@ -1,0 +1,14 @@
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/bin/Debug/net9.0/GameCLI
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/bin/Debug/net9.0/GameCLI.deps.json
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/bin/Debug/net9.0/GameCLI.runtimeconfig.json
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/bin/Debug/net9.0/GameCLI.dll
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/bin/Debug/net9.0/GameCLI.pdb
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/GameCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/GameCLI.AssemblyInfoInputs.cache
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/GameCLI.AssemblyInfo.cs
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/GameCLI.csproj.CoreCompileInputs.cache
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/GameCLI.dll
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/refint/GameCLI.dll
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/GameCLI.pdb
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/GameCLI.genruntimeconfig.cache
+/Users/amirhon/RoadMapProjects/GameCLI/GameCLI/obj/Debug/net9.0/ref/GameCLI.dll
